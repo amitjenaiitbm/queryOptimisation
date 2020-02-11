@@ -13,3 +13,5 @@ Web search users frequently modify their queries till they get relevant results.
 To test our system we have to build a Desktop Search Application. On the backend, the data on the computer system in indexed into the Apache Solr using Apache Tika and other dependency parsers. And the user can search his PC using Code-Mixed Hindi-English search query.
 
 Keywords : Query Reformulation, Query Refinement, Query Sequence, Language Identification.
+
+![](/images/1.jpg)
